@@ -15,3 +15,5 @@
 - 반응형이지만 모바일 버전이 제대로 작동하지 않음
 
 https://josh2kv.github.io/HBT-hotel-theme/
+
+![image](https://user-images.githubusercontent.com/79514508/113094531-cd914c80-922c-11eb-950d-572c0ebfbbd0.png)
